@@ -1,5 +1,5 @@
 # Образ для деплоя на Railway
-# Node.js 20 (LTS) — соответствует требованию Node.js 20+
+# Node.js 22 (LTS)
 FROM node:22-alpine
 
 WORKDIR /app

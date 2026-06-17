@@ -6,7 +6,7 @@ Telegram-бот для учета доходов и расходов. Пошаг
 
 ## Стек технологий
 
-- **Язык:** JavaScript (Node.js 20+)
+- **Язык:** JavaScript (Node.js 22+)
 - **Telegram-фреймворк:** [Telegraf.js](https://telegraf.js.org) 4.16.3+
 - **База данных:** Supabase (PostgreSQL)
 - **Клиент БД:** @supabase/supabase-js 2.108.1+
@@ -54,7 +54,7 @@ finance-bot/
 
 ## Локальный запуск
 
-Требуется **Node.js 20+**.
+Требуется **Node.js 22+**.
 
 ```bash
 # 1. Установить зависимости
